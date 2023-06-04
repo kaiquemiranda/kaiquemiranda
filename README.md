@@ -1,5 +1,4 @@
-# 👋 Hi, I’m @kaiquemiranda
-## I’m interested in grow up in developer carrer 💻🌐
+#  Hello friend 
 
 
 <!---
