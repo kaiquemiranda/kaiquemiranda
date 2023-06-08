@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blog.talent500.co/wp-content/uploads/2022/05/PythonToolKit_Banner-1200x500.png))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blog.talent500.co/wp-content/uploads/2022/05/PythonToolKit_Banner-1200x500.png))](https://talent500.co/blog/python-developer-toolkit-industry-specific-skills-learning-resources-interview-prep-more/)
 
 
 <h1 align="center">Hello friend!</h1>
