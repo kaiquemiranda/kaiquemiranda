@@ -4,7 +4,7 @@
 <h3 align="center">A passionate python fullstack developer from são paulo, Brazil</h3>
 <img align="right" alt="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquemiranda&label=Profile%20views&color=0e75b6&style=flat" alt="kaiquemiranda" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="kaiquemiranda" /> </p>
 
 - 🌱 I’m currently learning **Django**
 
