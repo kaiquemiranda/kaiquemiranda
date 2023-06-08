@@ -1,5 +1,5 @@
+<p align="left"> <img src="https://64.media.tumblr.com/07097c51c37622f017a79714c6fa8a54/tumblr_o7jv4nj13S1tago7oo9_1280.png" alt="kaiquemiranda" /> </p>
 
-<h1 align="center">Hello friend!</h1>
 <h1 align="center">I'm Kaique Miranda</h1>
 <h3 align="center">A passionate python fullstack developer from são paulo, Brazil</h3>
 
