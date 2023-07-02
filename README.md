@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [[kaiquemiranda.com](https://www.kaiquemiranda.com/)](kaiquemiranda.com)
+- 👨‍💻 All of my projects are available at [[https://willowy-cactus-5b8a41.netlify.app/](https://willowy-cactus-5b8a41.netlify.app/)](kaiquemiranda.com)
 
 - 📫 How to reach me **kaique.miranda1910@gmail.com**
 
